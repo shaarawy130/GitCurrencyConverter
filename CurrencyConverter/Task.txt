@@ -1,0 +1,8 @@
+﻿Euro - USD Currency converter 
+
+Input textbox Eur
+output textbox for Usd
+If input is updated -> validate input -> calculate usd
+
+
+Simulate Business and use fix constant rate
